@@ -1,0 +1,22 @@
+div{
+    text-align: center;
+    display: block;
+}
+img{
+    border-radius: 50%;
+    width: 300px;
+    height: 250px;
+}
+div:hover{
+    transform:scale(1.2)rotate(1deg);
+}
+h2
+{color: blue;
+    font-family:cursive;
+}
+p{color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top :12px;
+    padding: 20px 50px 70px 65px  ;
+}
+
